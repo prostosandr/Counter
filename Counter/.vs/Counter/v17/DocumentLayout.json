@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Git\\Counter\\Counter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0943B1BA-F211-4FD6-BDED-A9170E83BCE2}|Assembly-CSharp.csproj|d:\\git\\counter\\counter\\assets\\scripts\\counterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0943B1BA-F211-4FD6-BDED-A9170E83BCE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0943B1BA-F211-4FD6-BDED-A9170E83BCE2}|Assembly-CSharp.csproj|D:\\Git\\Counter\\Counter\\assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0943B1BA-F211-4FD6-BDED-A9170E83BCE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Counter.cs",
               "DocumentMoniker": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\Counter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counter.cs",
               "ToolTip": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\Counter.cs",
               "RelativeToolTip": "Assets\\Scripts\\Counter.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T06:50:21.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CounterView.cs",
+              "DocumentMoniker": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\CounterView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CounterView.cs",
+              "ToolTip": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\CounterView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CounterView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:04:12.623Z",
               "EditorCaption": ""
             }
           ]

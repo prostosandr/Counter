@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Git\\Counter\\Counter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0943B1BA-F211-4FD6-BDED-A9170E83BCE2}|Assembly-CSharp.csproj|d:\\git\\counter\\counter\\assets\\scripts\\counterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0943B1BA-F211-4FD6-BDED-A9170E83BCE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counterview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Git\\Counter\\Counter\\Assets\\Scripts\\CounterView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CounterView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0943B1BA-F211-4FD6-BDED-A9170E83BCE2}|Assembly-CSharp.csproj|d:\\git\\counter\\counter\\assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0943B1BA-F211-4FD6-BDED-A9170E83BCE2}|Assembly-CSharp.csproj|D:\\Git\\Counter\\Counter\\assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0943B1BA-F211-4FD6-BDED-A9170E83BCE2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,8 +26,8 @@
               "Title": "Counter.cs",
               "DocumentMoniker": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\Counter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Counter.cs",
-              "ToolTip": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\Counter.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Counter.cs",
+              "ToolTip": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\Counter.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Counter.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T06:50:21.348Z",
@@ -39,11 +39,11 @@
               "Title": "CounterView.cs",
               "DocumentMoniker": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\CounterView.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CounterView.cs",
-              "ToolTip": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\CounterView.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CounterView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "ToolTip": "D:\\Git\\Counter\\Counter\\Assets\\Scripts\\CounterView.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\CounterView.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T06:43:03.874Z",
+              "WhenOpened": "2025-02-10T06:30:46.978Z",
               "EditorCaption": ""
             }
           ]
